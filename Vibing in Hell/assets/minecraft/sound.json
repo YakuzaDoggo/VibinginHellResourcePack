@@ -1,0 +1,17 @@
+{"objects":"minecraft/sounds/damage/hit1.ogg": {"hash": "8760ebb9d4b1fe9457ef272324ecd6b4329a593e", "size": 6539}, 
+	"minecraft/sounds/damage/hit2.ogg": {"hash": "144867e8792415e2873293f06ecce85cd32bb4e8", "size": 6227},
+	"minecraft/sounds/damage/hit3.ogg": {"hash":"c73dcedde5031fcf242b08b3405f63098cd70641", "size": 7660},
+	"minecraft/sounds/mob/cow/hurt1.ogg": {"hash": "989c3b614f736aa77bb2800821ea56936e98ca68", "size": 7302},
+	"minecraft/sounds/mob/cow/hurt2.ogg": {"hash": "758d2a1c36abc84d2744d697b76d5414ea96d9f3", "size": 8430}, 
+	"minecraft/sounds/mob/cow/hurt3.ogg": {"hash": "2a031f10c7dc24e75d5dc3a374ebe7f36fc3e143", "size": 8934},
+	"minecraft/sounds/mob/pig/death.ogg": {"hash": "4bc87ab869e17732a20c7518a327136baf5b2c26", "size": 13694},
+	"minecraft/sounds/random/explode1.ogg": {"hash": "cd46e41023887558b134547e28327de6e7df189a", "size": 19732},
+	"minecraft/sounds/random/explode2.ogg": {"hash": "a116e396d95a0ee245000dd4cdcc333d38ea9e3b", "size": 25246},
+	"minecraft/sounds/random/explode3.ogg": {"hash": "a94a69e56568f5789cab05382cfd81f601189fd1", "size": 25298},
+	"minecraft/sounds/random/explode4.ogg": {"hash": "f259be40364341edcaf88e339bc24ab01e49845a", "size": 25090},
+	"minecraft/sounds/random/pop.ogg": {"hash": "8f45b5faf6dfae2065846d26612f7552b73640dd", "size": 4193}
+	
+	
+
+	
+}
