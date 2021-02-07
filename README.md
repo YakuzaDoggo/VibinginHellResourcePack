@@ -29,8 +29,8 @@
 ## Fair Warning
 Some textures/audio/text may be questionable, NSFW, overloading to the eyes or ears and just plain stupid. Don't expect this to be a serious resource pack.
 
-## Installation
-Simply download the ZIP file and send it to your Minecraft resource pack (the directory should be <b> /.minecraft/resourcepacks/ </b> in your roaming appdata folder.)
+## Installation 
+Simply download the ZIP file. Then send the folder named "Vibing in Hell" to your Minecraft resource pack (the directory should be <b> /.minecraft/resourcepacks/ </b> in your roaming appdata folder.)
 
 ## Roadmap
 You can find the roadmap on Trello [here](https://trello.com/b/tOSmUeIA/vibin-in-hell-resource-pack)
