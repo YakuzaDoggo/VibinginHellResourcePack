@@ -1,8 +1,8 @@
 # Vibing in Hell Resource Pack
 
 <p align="center">
-  <a href="https://github.com/YakuzaDoggo/VibinginHellResourcePack/">
-    <img src="/main/AnimePupSmug.jpg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/YakuzaDoggo/VibinginHellResourcePack">
+    <img src="/blob/main/AnimePupSmug.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <details open="open">
