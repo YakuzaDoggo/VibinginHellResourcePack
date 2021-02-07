@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/YakuzaDoggo/VibinginHellResourcePack">
-    <img src="/blob/main/AnimePupSmug.jpg" alt="Logo" width="80" height="80">
+    <img src="image/AnimePupSmug.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <details open="open">
