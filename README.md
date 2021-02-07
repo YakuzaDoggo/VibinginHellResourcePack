@@ -33,10 +33,10 @@ Some textures/audio/text may be questionable, NSFW, overloading to the eyes or e
 Simply download the ZIP file. Then send the folder named "Vibing in Hell" to your Minecraft resource pack (the directory should be <b> /.minecraft/resourcepacks/ </b> in your roaming appdata folder.)
 
 ## Roadmap
-You can find the roadmap on Trello [here](https://trello.com/b/tOSmUeIA/vibin-in-hell-resource-pack)
+You can find the roadmap on Trello [here](https://trello.com/b/tOSmUeIA/vibin-in-hell-resource-pack).
 
 ## Contribute
-First off, thank you if you wish to add something to this ~~masterpiece~~ shitpost. You can find my contact information below so that you can send your ideas or resources to me. (~~*or you could also make a pull request and what not, but who does that?*~~ If your idea gets accepted, I'll add your twitter/discord so that the whole world will know what you did.
+First off, thank you if you wish to add something to this ~~masterpiece~~ shitpost. You can find my contact information below so that you can send your ideas or resources to me. (~~*or you could also make a pull request and what not, but who does that?*~~) If your idea gets accepted, I'll add your twitter/discord so that the whole world will know what you did.
 
 ## Contact
 
