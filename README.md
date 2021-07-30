@@ -43,4 +43,4 @@ First off, thank you if you wish to add something to this ~~masterpiece~~ shitpo
 #### Yakuza Doggo
 
 * <b>Twitter</b> - [@DoggoGotYeeted](https://twitter.com/DoggoGotYeeted)
-* <b>Discord</b> - YakuzaDoggo#5546
+* <b>Discord</b> - [Rootkit](https://discord.com/users/349655503623684097)
