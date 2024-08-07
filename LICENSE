@@ -1,15 +1,28 @@
-This isn't really software, and I'm not one to do legal hurdles. So I'll try to keep this short. I know there's licenses out there that probably go over
-exactly what I want, but I would like to write things on my own rules. Since this is something I have been working on.
+(c) YakuzaDoggo and Vibing in Hell Resource Pack Creators, 2021
+Last updated August, 2024
 
-To clarify, "I" means YakuzaDoggo. "You" means anyone who contributes this repo, engages in any form of change to this repo, or
-anyone who creates a fork of this repo. "Repo" means the repository this license, and to further extent, all assets of this resource pack is on. 
-"Work" is any type of creative concept that is able to be applied to this repo, think images, sounds, etc. 
+To clarify:
+"We" means YakuzaDoggo and those that have contributed to the Vibing in Hell resource pack.
+"Asset" is any type of creative concept that is able to be applied to this repo (textures, audio, etc.)
+"Original Asset" is a subset of assets that were made with the intent of being used for this repo the licnese covers.
+"Repo" means the repository this license, and to further extent, all assets of this resource pack is on. 
+"You" means anyone who contributes, edits, or forks this repo, as well as anyone who uses the repo.
 "Variation" is some spin off (e.g. a fork) of this existing repo.
 
-To put it simply, you are allowed to make any changes you see fit to your own version of this pack. In other words, if you fork this repo, you are allowed to do 
-what ever you want. All that I ask of you is that you include somewhere in your readme something acknowledging this repo 
-as a source/foundation for your own repo. If you make your own variation, you are to make it open-source. However, you are allowed to change the license to another open source license that you may see fit.
+This repo and resource pack included with it is provided "AS-IS." That is to say, what you see currently on the repo is what you get. If something is broken or the resource packs doesn't
+work, we are not required to make those changes. This repo is just a collection of work provided by people, not a guarantee of a working product. 
 
-If you contribute to this repo specifically, you own the rights to any work you put in, unless the work belongs to someone else (e.g. the PlayStation 2 startup sound is
-part of the PlayStation 2 bios, which belongs to Sony Interactive Entertainment). At your own request, if you wish to no longer associate your work with this repo,
-you are free to contact me through proper channels to take any work you wish to remove.
+To put it simply, you are allowed to make any changes you see fit to your own version of this repo. In other words, if you fork this repo, you are allowed to do 
+what ever you want. However, if you publish your own public version, you are to make that version fall under this license and include acknowledgement of this repo (including a line in the license
+stating parts of the repo is from this one with a directly link is fine enough).
+
+Any assets you make for this resource pack is included under this license as to being open source and available for anyone to modify. Please keep this in mind if you wish to contribute to the repo.
+Furthermore, any modifications to assets made for this resource pack is further included in this license.
+
+For assets that were not originally made for this repo, copyright belongs to the original holders. Given the scope of this repo is covering several aspects of a resource pack from 
+texture of materials, to UI elements, and sounds, as well as this project being nonprofit, we are using those assets under fair use.
+
+If you are someone whose original work is included with this repo, and you wish to have it removed, please contact
+YakuzaDoggo via proper channels for removal.
+
+Minecraft, the game that this resource pack runs on, is copyright of Mojang and Microsoft. This resource pack is neither APPROVED BY nor ASSOCIATED WITH Mohjang or Microsoft.
